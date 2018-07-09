@@ -2,3 +2,4 @@ To check status
 Changed in central repository
 I am testing git merge
 i am testing git pull
+I am testing git pull2
