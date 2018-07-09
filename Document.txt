@@ -1,2 +1,3 @@
 To check status
 Changed in central repository
+I am testing git merge
